@@ -1,0 +1,7 @@
+async:
+  max: 15
+  core: 10
+  queue-capacity: 10000
+
+hash:
+  cron: "*/10 * * * * ?"
